@@ -18,7 +18,7 @@
 
 ## 📫 How to reach me:
 - Email: [kmlnur001@myuct.ac.za](mailto:kmlnur001@myuct.ac.za)
-- LinkedIn: (#) (www.linkedin.com/in/nurah-kamal)
+- LinkedIn: [Nurah Kamal] (www.linkedin.com/in/nurah-kamal)
 
 
 ## 🌟 Notable Achievements:
