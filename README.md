@@ -14,7 +14,7 @@
 ## 💞️ I’m looking to collaborate on:
 - **Data-Driven Projects**: Partnering on initiatives that leverage data for impactful decision-making and reporting.
 - **Software Development Projects**: Contributing to open-source or community projects, particularly in C# and Windows Forms.
-- **Educational Initiatives**: Working with others to develop tutoring resources or programs that benefit students in the local community.
+- **Educational Initiatives**: Working with others to develop tutoring resources or programs that benefit students in the local community. 
 
 ## 📫 How to reach me:
 - Email: [kmlnur001@myuct.ac.za](mailto:kmlnur001@myuct.ac.za)
