@@ -32,4 +32,4 @@
 ## 🌍 Current Projects:
 - Working on a **hotel reservation system project** that incorporates software engineering principles and team collaboration.
 - Involved in creating a **hotel occupancy report** using Tableau to visualize trends and insights in the hospitality industry.
-- Interning as a Data Science Intern at CodSoft
+  
