@@ -26,7 +26,7 @@
 - Developed a technical documentation page for C# as part of my FreeCodeCamp curriculum, demonstrating my ability to communicate complex concepts clearly.
 
 ## 🎓 Background:
-- Currently a third-year university student at UCT, studying **BCom Information Systems **.
+- Currently a third-year university student at UCT, studying **BCom Information Systems**.
 - Experienced in projects that involve software development and data analysis, with a focus on delivering results that meet stakeholders' needs.
 
 ## 🌍 Current Projects:
