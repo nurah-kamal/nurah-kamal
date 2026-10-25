@@ -4,18 +4,7 @@
  
 I work in operations and reporting at a group of distance-learning colleges, and I'm doing a Bachelor of IT in Business Information Systems at STADIO. Most of my time goes into data, reporting and automation.
  
----
- 
-## Projects you can open
- 
-| Project | What it shows | |
-| --- | --- | --- |
-| **[SA Turnaround](https://github.com/nurah-kamal/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/sa-turnaround/) |
-| **[Plain Board](https://github.com/nurah-kamal/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/plain-board/) |
-| **[Statistical Modelling](https://github.com/nurah-kamal/Statistical-Modelling)** | Five study models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification. `Python` | |
-| **[Tableau Projects](https://github.com/nurah-kamal/Tableau-Projects)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
- 
-Everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
+I'm also the proud creator and owner of [Firefly](https://www.studyfirefly.com/), a study app that counts only the hours you actually studied and turns your own notes into flashcards, summaries and practice tests.
  
 ---
  
@@ -42,6 +31,20 @@ Along the way I picked up Python, SQL, JavaScript and Apps Script, some through 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-EFA9BF?style=flat&logo=googlecloud&logoColor=5A2E42)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-EFA9BF?style=flat&logo=googlegemini&logoColor=5A2E42)
 ![Git](https://img.shields.io/badge/Git-EFA9BF?style=flat&logo=git&logoColor=5A2E42)
+ 
+---
+ 
+## Projects you can open
+ 
+| Project | What it shows | |
+| --- | --- | --- |
+| **[Firefly](https://www.studyfirefly.com/)** | My study app for students, which I built and run. It counts only the hours you actually studied and turns your own notes into flashcards, summaries and practice tests. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
+| **[SA Turnaround](https://github.com/nurah-kamal/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/sa-turnaround/) |
+| **[Plain Board](https://github.com/nurah-kamal/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/plain-board/) |
+| **[Statistical Modelling](https://github.com/nurah-kamal/Statistical-Modelling)** | Five study models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification. `Python` | |
+| **[Tableau Projects](https://github.com/nurah-kamal/Tableau-Projects)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
+ 
+Apart from Firefly, everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
  
 ---
  
