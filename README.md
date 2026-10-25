@@ -2,6 +2,8 @@
  
 **Information Systems student · Operations & Reporting Coordinator · Cape Town**
  
+**Portfolio: [nurah-kamal.github.io](https://nurah-kamal.github.io/)**
+ 
 I work in operations and reporting at a group of distance-learning colleges, and I'm doing a Bachelor of IT in Business Information Systems at STADIO. Most of my time goes into data, reporting and automation. I'm also the line manager for two engineers, a junior software engineer and a junior systems engineer, and I do some of the engineering myself.
  
 I'm also the proud creator and owner of [Firefly](https://www.studyfirefly.com/), a free study app I made for students who want to study well without having to pay for it. It helps you turn your own lecture slides and notes into flashcards and practice tests, keeps track of the time you really spend studying, and lets you study alongside your friends. I built it because I believe studying properly shouldn't depend on what you can afford.
