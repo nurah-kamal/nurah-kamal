@@ -57,7 +57,9 @@ My work is grouped by field, with one repository per field and one folder per pr
 
 | Project | What it shows |
 | --- | --- |
-| **[Study models](https://github.com/nurah-kamal/statistical-modelling)** | Five models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification. `Python` |
+| **[Study models](https://github.com/nurah-kamal/statistical-modelling)** | Five models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification, each compared with a simple baseline and cross-validated. `Python` `scikit-learn` |
+| **[Did the second sign-off slow refunds?](https://github.com/nurah-kamal/statistical-modelling/tree/main/Refund-Sign-Off-Test)** | Permutation tests and bootstrap intervals on synthetic service-desk data: they find the planted refund delay, and show why a complaints bump that passes a significance test is still a fluke. `Python` `pandas` |
+| **[Request volume forecast](https://github.com/nurah-kamal/statistical-modelling/tree/main/Request-Volume-Forecast)** | Daily request volume from weekday, month and South African public holidays, tested on a later year against naive forecasts: 1.8 requests a day off, against 2.7 for "same as last week". `Python` `scikit-learn` |
 
 ### Software
 
