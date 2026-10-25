@@ -6,6 +6,19 @@ I work in operations and reporting at a group of distance-learning colleges, and
  
 ---
  
+## Projects you can open
+ 
+| Project | What it shows | |
+| --- | --- | --- |
+| **[SA Turnaround](https://github.com/nurah-kamal/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/sa-turnaround/) |
+| **[Plain Board](https://github.com/nurah-kamal/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/plain-board/) |
+| **[Statistical Modelling](https://github.com/nurah-kamal/Statistical-Modelling)** | Four study models in scikit-learn: house prices, movie ratings, advertising sales and iris classification. `Python` | |
+| **[Tableau Projects](https://github.com/nurah-kamal/Tableau-Projects)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
+ 
+Everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
+ 
+---
+ 
 ## How I got here
  
 My love for data started with maths. I've always been a numbers person, and the more maths I did through school and university, the more I realised that what I enjoyed most was spotting patterns and analysing them. That turned into a love for statistics, and statistics led me to data. If I trace it back even further, it probably starts with sudoku, which I loved as a child. That's where the pattern-spotting began.
@@ -56,14 +69,14 @@ A lot of my role also sits between the business and the developers: working out 
 Most of what I build is for my job and covered by confidentiality, so I can't share the code or the details. In general terms, it includes:
  
 - **Quality review tooling:** a tool that scores support interactions against a rubric and shows the results on dashboards `React` `Supabase` `LLM API`
-- **Tracking and reporting automation:** Sheets and Apps Script workflows that collect data on a schedule, roll it up and feed dashboards, including business-day calculations that account for South African public holidays `Apps Script`
+- **Tracking and reporting automation:** Sheets and Apps Script workflows that collect data on a schedule, roll it up and feed dashboards, including business-day calculations that account for South African public holidays `Apps Script`. [SA Turnaround](https://github.com/nurah-kamal/sa-turnaround) is a public version of that idea, rebuilt on invented data.
 - **Trend dashboards:** showing patterns over time so it's easier to see when something changes and why `Sheets` `Apps Script`
 - **Report checking:** automated checks that recalculate figures from the source data before a report goes out `Python`
 - **Report pipelines:** turning raw exports into formatted Word and Excel reports `Python` `Node.js`
 - **Text-to-speech for dictation practice:** South African English voices, letter-by-letter spelling and adjustable pace `Python` `edge-tts`
 I also work alongside developers on larger systems, helping with scoping, reviewing specifications and handover.
  
-Anything I can share publicly, like study projects and personal experiments, will end up here.
+Anything I can share publicly ends up in [Projects you can open](#projects-you-can-open) above.
  
 ---
  
