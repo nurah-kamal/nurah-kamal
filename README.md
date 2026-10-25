@@ -46,6 +46,13 @@ My work is grouped by field, with one repository per field and one folder per pr
 | **[Plain Board](https://github.com/nurah-kamal/reporting-and-bi/tree/main/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/reporting-and-bi/plain-board/) |
 | **[Tableau](https://github.com/nurah-kamal/reporting-and-bi/tree/main/tableau)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
 
+### Analysis · [data-analysis](https://github.com/nurah-kamal/data-analysis)
+
+| Project | What it shows |
+| --- | --- |
+| **[Stock and Orders](https://github.com/nurah-kamal/data-analysis/tree/main/sql-ops)** | Thirteen business questions about a made-up wholesaler's orders and stock, each answered in one plain SQL file, with tests that check every answer. It finds one supplier whose late deliveries left customers short of about one in six units they ordered. `SQL` `SQLite` |
+| **[HR data generator](https://github.com/nurah-kamal/data-analysis/tree/main/hr-data-generator)** | Makes an invented South African workforce of 8,950 employees for practising HR analytics, with a fixed seed so the output repeats. `Python` |
+
 ### Statistics and modelling · [statistical-modelling](https://github.com/nurah-kamal/statistical-modelling)
 
 | Project | What it shows |
