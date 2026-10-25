@@ -12,7 +12,7 @@ I work in operations and reporting at a group of distance-learning colleges, and
 | --- | --- | --- |
 | **[SA Turnaround](https://github.com/nurah-kamal/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/sa-turnaround/) |
 | **[Plain Board](https://github.com/nurah-kamal/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/plain-board/) |
-| **[Statistical Modelling](https://github.com/nurah-kamal/Statistical-Modelling)** | Four study models in scikit-learn: house prices, movie ratings, advertising sales and iris classification. `Python` | |
+| **[Statistical Modelling](https://github.com/nurah-kamal/Statistical-Modelling)** | Five study models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification. `Python` | |
 | **[Tableau Projects](https://github.com/nurah-kamal/Tableau-Projects)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
  
 Everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
