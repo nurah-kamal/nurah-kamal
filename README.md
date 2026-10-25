@@ -58,7 +58,7 @@ It's the dashboard side of my work: modelling the data once so that everyone fil
 
 ### Analysis · [data-analysis](https://github.com/nurah-kamal/data-analysis)
 
-Business questions answered in plain SQL, each with a test that checks the answer. [Stock and Orders](https://github.com/nurah-kamal/data-analysis/tree/main/sql-ops) works through a made-up wholesaler's orders and stock and traces customers' missing units back to one late supplier. The [HR data generator](https://github.com/nurah-kamal/data-analysis/tree/main/hr-data-generator) makes an invented South African workforce to practise HR analytics on.
+Business questions answered in plain SQL, each with a test that checks the answer. [Stock and Orders](https://github.com/nurah-kamal/data-analysis/tree/main/sql-ops) works through a made-up wholesaler's orders and stock and traces customers' missing units back to one late supplier. The [HR data generator](https://github.com/nurah-kamal/data-analysis/tree/main/hr-data-generator) makes an invented South African workforce to practise HR analytics on. [rls-proof](https://github.com/nurah-kamal/data-analysis/tree/main/rls-proof) proves that PostgreSQL row-level security keeps two tenants' data apart, then plants 24 common mistakes, from a switched-off policy to a connection that bypasses it, and shows the tests catch every one.
 
 It's how I work at my job too: go back to the source, and test the answer as well as writing the query.
 
