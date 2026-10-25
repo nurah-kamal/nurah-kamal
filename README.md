@@ -48,7 +48,7 @@ This is the public side of my day job. I build the tracking and reporting for a 
 
 ### Business intelligence · [business-intelligence](https://github.com/nurah-kamal/business-intelligence)
 
-Data models and dashboards for exploring the numbers. [Power BI Turnaround](https://github.com/nurah-kamal/business-intelligence/tree/main/power-bi-turnaround) rebuilds SA Turnaround as a star schema with a date table that knows every South African public holiday, 23 DAX measures and four report pages, and every figure matches the SQL version. There are also three [Tableau dashboards](https://github.com/nurah-kamal/business-intelligence/tree/main/tableau) on HR, data science salaries and sales.
+Data models and dashboards for exploring the numbers. [Power BI Turnaround](https://github.com/nurah-kamal/business-intelligence/tree/main/power-bi-turnaround) rebuilds SA Turnaround as a star schema with a date table that knows every South African public holiday, 23 DAX measures and four report pages, and every figure matches the SQL version. [CPI Inflation](https://github.com/nurah-kamal/business-intelligence/tree/main/power-bi-cpi) turns 57 years of Stats SA's official CPI and a backtest of three inflation forecasts into a four-page Power BI story: no model beats "it stays where it is", and the report shows where and why. There are also three [Tableau dashboards](https://github.com/nurah-kamal/business-intelligence/tree/main/tableau) on HR, data science salaries and sales.
 
 It's the dashboard side of my work: modelling the data once so that everyone filtering a report sees the same, correct figure.
 
