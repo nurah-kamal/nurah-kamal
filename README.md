@@ -44,11 +44,15 @@ Reports built so the numbers can be trusted. [SA Turnaround](https://github.com/
 
 This is the public side of my day job. I build the tracking and reporting for a group of colleges, including turnaround reporting that has to account for South African public holidays.
 
+<p align="center">· · ·</p>
+
 ### Business intelligence · [business-intelligence](https://github.com/nurah-kamal/business-intelligence)
 
 Data models and dashboards for exploring the numbers. [Power BI Turnaround](https://github.com/nurah-kamal/business-intelligence/tree/main/power-bi-turnaround) rebuilds SA Turnaround as a star schema with a date table that knows every South African public holiday, 23 DAX measures and four report pages, and every figure matches the SQL version. There are also three [Tableau dashboards](https://github.com/nurah-kamal/business-intelligence/tree/main/tableau) on HR, data science salaries and sales.
 
 It's the dashboard side of my work: modelling the data once so that everyone filtering a report sees the same, correct figure.
+
+<p align="center">· · ·</p>
 
 ### Analysis · [data-analysis](https://github.com/nurah-kamal/data-analysis)
 
@@ -56,17 +60,23 @@ Business questions answered in plain SQL, each with a test that checks the answe
 
 It's how I work at my job too: go back to the source, and test the answer as well as writing the query.
 
+<p align="center">· · ·</p>
+
 ### Statistics and modelling · [statistical-modelling](https://github.com/nurah-kamal/statistical-modelling)
 
 Models and tests that are always measured against a simple baseline. Five study models, a [hypothesis test](https://github.com/nurah-kamal/statistical-modelling/tree/main/refund-sign-off-test) that finds a planted delay and shows why a "significant" bump can still be a fluke, a [request volume forecast](https://github.com/nurah-kamal/statistical-modelling/tree/main/request-volume-forecast) that uses South African public holidays, and a [CPI inflation forecast](https://github.com/nurah-kamal/statistical-modelling/tree/main/cpi-inflation-forecast) on Stats SA data that honestly finds no gain over assuming no change.
 
 This is the statistics behind my reporting: knowing when a change in the numbers is real and when it's noise.
 
+<p align="center">· · ·</p>
+
 ### Software
 
 [Firefly](https://www.studyfirefly.com/) is a free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private.
 
 It's the engineering side of what I do. At work I line-manage two engineers and do some of the engineering myself.
+
+<p align="center">· · ·</p>
 
 Apart from Firefly, everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
  
