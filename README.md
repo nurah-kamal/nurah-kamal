@@ -35,9 +35,32 @@ Along the way I picked up Python, SQL, JavaScript and Apps Script, some through 
 ---
  
 ## Projects you can open
- 
+
+My work is grouped by field, with one repository per field and one folder per project.
+
+### Reporting and BI · [reporting-and-bi](https://github.com/nurah-kamal/reporting-and-bi)
+
 | Project | What it shows | |
 | --- | --- | --- |
+| **[SA Turnaround](https://github.com/nurah-kamal/reporting-and-bi/tree/main/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/reporting-and-bi/sa-turnaround/) |
+| **[Plain Board](https://github.com/nurah-kamal/reporting-and-bi/tree/main/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/reporting-and-bi/plain-board/) |
+| **[Tableau](https://github.com/nurah-kamal/reporting-and-bi/tree/main/tableau)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
+
+### Statistics and modelling · [statistical-modelling](https://github.com/nurah-kamal/statistical-modelling)
+
+| Project | What it shows |
+| --- | --- |
+| **[Study models](https://github.com/nurah-kamal/statistical-modelling)** | Five models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification. `Python` |
+
+### Software
+
+| Project | What it shows | |
+| --- | --- | --- |
+| **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
+
+Apart from Firefly, everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
+ 
+--- | --- | --- |
 | **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
 | **[SA Turnaround](https://github.com/nurah-kamal/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/sa-turnaround/) |
 | **[Plain Board](https://github.com/nurah-kamal/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/plain-board/) |
@@ -72,7 +95,7 @@ A lot of my role also sits between the business and the developers: working out 
 Most of what I build is for my job and covered by confidentiality, so I can't share the code or the details. In general terms, it includes:
  
 - **Quality review tooling:** a tool that scores support interactions against a rubric and shows the results on dashboards `React` `Supabase` `LLM API`
-- **Tracking and reporting automation:** Sheets and Apps Script workflows that collect data on a schedule, roll it up and feed dashboards, including business-day calculations that account for South African public holidays `Apps Script`. [SA Turnaround](https://github.com/nurah-kamal/sa-turnaround) is a public version of that idea, rebuilt on invented data.
+- **Tracking and reporting automation:** Sheets and Apps Script workflows that collect data on a schedule, roll it up and feed dashboards, including business-day calculations that account for South African public holidays `Apps Script`. [SA Turnaround](https://github.com/nurah-kamal/reporting-and-bi/tree/main/sa-turnaround) is a public version of that idea, rebuilt on invented data.
 - **Trend dashboards:** showing patterns over time so it's easier to see when something changes and why `Sheets` `Apps Script`
 - **Report checking:** automated checks that recalculate figures from the source data before a report goes out `Python`
 - **Report pipelines:** turning raw exports into formatted Word and Excel reports `Python` `Node.js`
