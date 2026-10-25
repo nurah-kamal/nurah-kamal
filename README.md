@@ -55,21 +55,7 @@ My work is grouped by field, with one repository per field and one folder per pr
 ### Software
 
 | Project | What it shows | |
-| --- | --- | --- |
-| **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
-
-Apart from Firefly, everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
- 
---- | --- | --- |
-| **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
-| **[SA Turnaround](https://github.com/nurah-kamal/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/sa-turnaround/) |
-| **[Plain Board](https://github.com/nurah-kamal/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/plain-board/) |
-| **[Statistical Modelling](https://github.com/nurah-kamal/Statistical-Modelling)** | Five study models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification. `Python` | |
-| **[Tableau Projects](https://github.com/nurah-kamal/Tableau-Projects)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
- 
-Apart from Firefly, everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
- 
----
+| ---
  
 ## What I enjoy working on
  
