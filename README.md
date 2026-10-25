@@ -40,34 +40,27 @@ My work is grouped by field, with one repository per field and one folder per pr
 
 ### Reporting and BI · [reporting-and-bi](https://github.com/nurah-kamal/reporting-and-bi)
 
-| Project | What it shows | |
-| --- | --- | --- |
-| **[SA Turnaround](https://github.com/nurah-kamal/reporting-and-bi/tree/main/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/reporting-and-bi/sa-turnaround/) |
-| **[Power BI Turnaround](https://github.com/nurah-kamal/reporting-and-bi/tree/main/power-bi-turnaround)** | SA Turnaround rebuilt as a Power BI model: a star schema, a date table that knows every South African public holiday, 23 DAX measures and four report pages. Every figure matches the SQL version. `Power BI` `DAX` | [Screenshots](https://github.com/nurah-kamal/reporting-and-bi/tree/main/power-bi-turnaround#readme) |
-| **[Plain Board](https://github.com/nurah-kamal/reporting-and-bi/tree/main/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/reporting-and-bi/plain-board/) |
-| **[Tableau](https://github.com/nurah-kamal/reporting-and-bi/tree/main/tableau)** | Three Tableau dashboards: HR on synthetic South African data, data science salaries and sales performance. `Tableau` | [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes) |
+Reports and dashboards built so the numbers can be trusted. [SA Turnaround](https://github.com/nurah-kamal/reporting-and-bi/tree/main/sa-turnaround) shows how counting calendar days instead of working days blamed a service desk for public holidays, with a [live report](https://nurah-kamal.github.io/reporting-and-bi/sa-turnaround/) and a working-day calculator. The same analysis is rebuilt [in Power BI](https://github.com/nurah-kamal/reporting-and-bi/tree/main/power-bi-turnaround) with a date table that knows every South African public holiday. There's also [Plain Board](https://github.com/nurah-kamal/reporting-and-bi/tree/main/plain-board), a reporting board where every figure says what it can't prove ([live demo](https://nurah-kamal.github.io/reporting-and-bi/plain-board/)), and three [Tableau dashboards](https://github.com/nurah-kamal/reporting-and-bi/tree/main/tableau).
+
+This is the public side of my day job. I build the tracking and reporting for a group of colleges, including turnaround reporting that has to account for South African public holidays.
 
 ### Analysis · [data-analysis](https://github.com/nurah-kamal/data-analysis)
 
-| Project | What it shows |
-| --- | --- |
-| **[Stock and Orders](https://github.com/nurah-kamal/data-analysis/tree/main/sql-ops)** | Thirteen business questions about a made-up wholesaler's orders and stock, each answered in one plain SQL file, with tests that check every answer. It finds one supplier whose late deliveries left customers short of about one in six units they ordered. `SQL` `SQLite` |
-| **[HR data generator](https://github.com/nurah-kamal/data-analysis/tree/main/hr-data-generator)** | Makes an invented South African workforce of 8,950 employees for practising HR analytics, with a fixed seed so the output repeats. `Python` |
+Business questions answered in plain SQL, each with a test that checks the answer. [Stock and Orders](https://github.com/nurah-kamal/data-analysis/tree/main/sql-ops) works through a made-up wholesaler's orders and stock and traces customers' missing units back to one late supplier. The [HR data generator](https://github.com/nurah-kamal/data-analysis/tree/main/hr-data-generator) makes an invented South African workforce to practise HR analytics on.
+
+It's how I work at my job too: go back to the source, and test the answer as well as writing the query.
 
 ### Statistics and modelling · [statistical-modelling](https://github.com/nurah-kamal/statistical-modelling)
 
-| Project | What it shows |
-| --- | --- |
-| **[Study models](https://github.com/nurah-kamal/statistical-modelling)** | Five models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification, each compared with a simple baseline and cross-validated. `Python` `scikit-learn` |
-| **[Did the second sign-off slow refunds?](https://github.com/nurah-kamal/statistical-modelling/tree/main/refund-sign-off-test)** | Permutation tests and bootstrap intervals on synthetic service-desk data: they find the planted refund delay, and show why a complaints bump that passes a significance test is still a fluke. `Python` `pandas` |
-| **[Request volume forecast](https://github.com/nurah-kamal/statistical-modelling/tree/main/request-volume-forecast)** | Daily request volume from weekday, month and South African public holidays, tested on a later year against naive forecasts: 1.8 requests a day off, against 2.7 for "same as last week". `Python` `scikit-learn` |
-| **[CPI inflation forecast](https://github.com/nurah-kamal/statistical-modelling/tree/main/cpi-inflation-forecast)** | Can a model forecast South African inflation better than "it stays where it is"? A monthly backtest from 2010 on Stats SA's official CPI says no: no significant gain at 1 to 12 months ahead. `Python` `scikit-learn` |
+Models and tests that are always measured against a simple baseline. Five study models, a [hypothesis test](https://github.com/nurah-kamal/statistical-modelling/tree/main/refund-sign-off-test) that finds a planted delay and shows why a "significant" bump can still be a fluke, a [request volume forecast](https://github.com/nurah-kamal/statistical-modelling/tree/main/request-volume-forecast) that uses South African public holidays, and a [CPI inflation forecast](https://github.com/nurah-kamal/statistical-modelling/tree/main/cpi-inflation-forecast) on Stats SA data that honestly finds no gain over assuming no change.
+
+This is the statistics behind my reporting: knowing when a change in the numbers is real and when it's noise.
 
 ### Software
 
-| Project | What it shows | |
-| --- | --- | --- |
-| **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
+[Firefly](https://www.studyfirefly.com/) is a free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private.
+
+It's the engineering side of what I do. At work I line-manage two engineers and do some of the engineering myself.
 
 Apart from Firefly, everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
  
