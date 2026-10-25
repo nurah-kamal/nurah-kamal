@@ -55,7 +55,12 @@ My work is grouped by field, with one repository per field and one folder per pr
 ### Software
 
 | Project | What it shows | |
-| ---
+| --- | --- | --- |
+| **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
+
+Apart from Firefly, everything here runs on public or invented data. Where a project is based on my work, it was rebuilt from scratch with synthetic data, and no work code or data is in it.
+ 
+---
  
 ## What I enjoy working on
  
