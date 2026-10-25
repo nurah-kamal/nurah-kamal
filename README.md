@@ -38,11 +38,17 @@ Along the way I picked up Python, SQL, JavaScript and Apps Script, some through 
 
 My work is grouped by field, with one repository per field and one folder per project.
 
-### Reporting and BI · [reporting-and-bi](https://github.com/nurah-kamal/reporting-and-bi)
+### Reporting · [reporting](https://github.com/nurah-kamal/reporting)
 
-Reports and dashboards built so the numbers can be trusted. [SA Turnaround](https://github.com/nurah-kamal/reporting-and-bi/tree/main/sa-turnaround) shows how counting calendar days instead of working days blamed a service desk for public holidays, with a [live report](https://nurah-kamal.github.io/reporting-and-bi/sa-turnaround/) and a working-day calculator. The same analysis is rebuilt [in Power BI](https://github.com/nurah-kamal/reporting-and-bi/tree/main/power-bi-turnaround) with a date table that knows every South African public holiday. There's also [Plain Board](https://github.com/nurah-kamal/reporting-and-bi/tree/main/plain-board), a reporting board where every figure says what it can't prove ([live demo](https://nurah-kamal.github.io/reporting-and-bi/plain-board/)), and three [Tableau dashboards](https://github.com/nurah-kamal/reporting-and-bi/tree/main/tableau).
+Reports built so the numbers can be trusted. [SA Turnaround](https://github.com/nurah-kamal/reporting/tree/main/sa-turnaround) shows how counting calendar days instead of working days blamed a service desk for public holidays, with a [live report](https://nurah-kamal.github.io/reporting/sa-turnaround/) and a working-day calculator. [Plain Board](https://github.com/nurah-kamal/reporting/tree/main/plain-board) is a reporting board where every figure says what it can't prove ([live demo](https://nurah-kamal.github.io/reporting/plain-board/)).
 
 This is the public side of my day job. I build the tracking and reporting for a group of colleges, including turnaround reporting that has to account for South African public holidays.
+
+### Business intelligence · [business-intelligence](https://github.com/nurah-kamal/business-intelligence)
+
+Data models and dashboards for exploring the numbers. [Power BI Turnaround](https://github.com/nurah-kamal/business-intelligence/tree/main/power-bi-turnaround) rebuilds SA Turnaround as a star schema with a date table that knows every South African public holiday, 23 DAX measures and four report pages, and every figure matches the SQL version. There are also three [Tableau dashboards](https://github.com/nurah-kamal/business-intelligence/tree/main/tableau) on HR, data science salaries and sales.
+
+It's the dashboard side of my work: modelling the data once so that everyone filtering a report sees the same, correct figure.
 
 ### Analysis · [data-analysis](https://github.com/nurah-kamal/data-analysis)
 
@@ -90,7 +96,7 @@ A lot of my role also sits between the business and the developers: working out 
 Most of what I build is for my job and covered by confidentiality, so I can't share the code or the details. In general terms, it includes:
  
 - **Quality review tooling:** a tool that scores support interactions against a rubric and shows the results on dashboards `React` `Supabase` `LLM API`
-- **Tracking and reporting automation:** Sheets and Apps Script workflows that collect data on a schedule, roll it up and feed dashboards, including business-day calculations that account for South African public holidays `Apps Script`. [SA Turnaround](https://github.com/nurah-kamal/reporting-and-bi/tree/main/sa-turnaround) is a public version of that idea, rebuilt on invented data.
+- **Tracking and reporting automation:** Sheets and Apps Script workflows that collect data on a schedule, roll it up and feed dashboards, including business-day calculations that account for South African public holidays `Apps Script`. [SA Turnaround](https://github.com/nurah-kamal/reporting/tree/main/sa-turnaround) is a public version of that idea, rebuilt on invented data.
 - **Trend dashboards:** showing patterns over time so it's easier to see when something changes and why `Sheets` `Apps Script`
 - **Report checking:** automated checks that recalculate figures from the source data before a report goes out `Python`
 - **Report pipelines:** turning raw exports into formatted Word and Excel reports `Python` `Node.js`
