@@ -4,7 +4,7 @@
  
 I work in operations and reporting at a group of distance-learning colleges, and I'm doing a Bachelor of IT in Business Information Systems at STADIO. Most of my time goes into data, reporting and automation.
  
-I'm also the proud creator and owner of [Firefly](https://www.studyfirefly.com/), a free study app for students, built because studying properly shouldn't depend on what you can afford. It turns your own slides and notes into flashcards and practice tests that follow your course, its timer counts only the time you actually spend studying, and you can study alongside friends. Every account is approved by a person, and privacy is built in from the start: nothing is public, and the database enforces it.
+I'm also the proud creator and owner of [Firefly](https://www.studyfirefly.com/), a free study app I made for students who want to study well without having to pay for it. It helps you turn your own lecture slides and notes into flashcards and practice tests, keeps track of the time you really spend studying, and lets you study alongside your friends. I built it because I believe studying properly shouldn't depend on what you can afford.
  
 ---
  
@@ -38,7 +38,7 @@ Along the way I picked up Python, SQL, JavaScript and Apps Script, some through 
  
 | Project | What it shows | |
 | --- | --- | --- |
-| **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run, live since 2026. Flashcards and practice tests made from your own slides and notes, a study timer that counts only real study time, and studying with friends, with friends-only sharing enforced in the database. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
+| **[Firefly](https://www.studyfirefly.com/)** | A free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. | [studyfirefly.com](https://www.studyfirefly.com/) |
 | **[SA Turnaround](https://github.com/nurah-kamal/sa-turnaround)** | Turnaround measured in calendar days blamed a service desk for public holidays. A tested South African working-day library, SQL analysis of three years of synthetic requests, and a one-page report with a calculator. `SQL` `JavaScript` `SQLite` | [Live page](https://nurah-kamal.github.io/sa-turnaround/) |
 | **[Plain Board](https://github.com/nurah-kamal/plain-board)** | A small internal reporting board where every figure says what it does not prove. Twelve pages, every chart drawn in SVG, no framework and no dependencies. `JavaScript` `HTML` `CSS` | [Live demo](https://nurah-kamal.github.io/plain-board/) |
 | **[Statistical Modelling](https://github.com/nurah-kamal/Statistical-Modelling)** | Five study models in scikit-learn: house prices, movie ratings, advertising sales, Titanic survival and iris classification. `Python` | |
