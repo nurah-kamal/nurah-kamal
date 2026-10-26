@@ -74,7 +74,7 @@ This is the statistics behind my reporting: knowing when a change in the numbers
 
 ### Software
 
-[Firefly](https://www.studyfirefly.com/) is a free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private.
+[Firefly](https://www.studyfirefly.com/) is a free study app I built and run for students. It turns your own slides and notes into flashcards and practice tests, tracks the time you really spend studying, and lets you study with friends. The code is private. In [software-tools](https://github.com/nurah-kamal/software-tools), [page-watch](https://github.com/nurah-kamal/software-tools/tree/main/page-watch) uses Puppeteer and a daily scheduled job to save the Stats SA publication schedule and write down what changed, after checking each site's terms first.
 
 It's the engineering side of what I do. At work I line-manage two engineers and do some of the engineering myself.
 
